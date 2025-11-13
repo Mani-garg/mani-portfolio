@@ -14,7 +14,7 @@ const HeaderInfo = () => {
       {/* Left Section */}
       <div className="lg:w-1/2 w-full text-center lg:text-left space-y-6 z-10 relative">
         <h1 className="text-4xl md:text-5xl font-extrabold text-white">
-          Hi, I'm <span className="text-blue-400">Mani Garg</span>
+          Hi, I'm <span className="text-blue-400">Mani </span>
         </h1>
         <h2 className="text-xl font-semibold text-blue-400">Full Stack Developer</h2>
         <p className="text-sm text-gray-300 max-w-md mx-auto lg:mx-0 leading-relaxed">
